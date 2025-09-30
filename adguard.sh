@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/tteck/adam-sid/proxmox-adguard-build-script/build.func)
+source <(curl -s https://raw.githubusercontent.com/adam-sid/proxmox-adguard-build-script/main/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
